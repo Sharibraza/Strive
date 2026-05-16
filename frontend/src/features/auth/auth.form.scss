@@ -44,7 +44,7 @@
 // }
 
 main.auth-main {
-    min-height: 100vh;
+    min-height: 90vh;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -56,10 +56,10 @@ main.auth-main {
         width: 100%;
         max-width: 1000px;
         display: flex;
-        height: 600px;
+        height: 500px;
         border-radius: 0.5rem;
         overflow: hidden;
-        box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+        // box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
 
         /* Left Side - Form */
         .auth-left {
