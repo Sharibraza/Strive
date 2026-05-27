@@ -64,6 +64,8 @@ JWT_SECRET=your_jwt_secret
 GOOGLE_API_KEY=your_google_genai_api_key
 ```
 
+`CLIENT_URL` is used by the backend CORS config to allow the frontend origin during local development.
+
 Start the API:
 
 ```bash
